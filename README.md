@@ -1,2 +1,2 @@
-# Classification-of-Galaxies
-Shared files for a project about classifying galaxies from photos.
+# MNIST-Classifier
+A simple MNIST-Classifier written in python using pytorch.
